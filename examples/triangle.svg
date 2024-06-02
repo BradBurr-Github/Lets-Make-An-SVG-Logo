@@ -1,0 +1,5 @@
+
+        <svg width="220" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+            <polygon points="120,40 20,220 220,220" fill="slategrey"/>
+            <text x="123" y="180" font-size="54" fill="powderblue" text-anchor="middle">FRI</text>
+        </svg>
